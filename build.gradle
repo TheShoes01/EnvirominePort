@@ -82,7 +82,7 @@ dependencies {
 
 }
 
-// Example for how to get properties into the manifest for reading by the runtime..
+// Example for how to get envirominePort.trackers.properties into the manifest for reading by the runtime..
 jar {
     manifest {
         attributes([
