@@ -30,7 +30,7 @@ import envirominePort.EnviroDamageSource;
 import envirominePort.EnviroPotion;
 import envirominePort.client.gui.UI_Settings;
 import envirominePort.core.EMP_Settings;
-import envirominePort.core.EnviroMine;
+import envirominePort.core.EnviroMinePort;
 import envirominePort.handlers.EMP_StatusManager;
 import envirominePort.trackers.properties.DimensionProperties;
 import envirominePort.trackers.properties.EntityProperties;

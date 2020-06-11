@@ -1,4 +1,4 @@
-/*package envirominePort.trackers.properties;
+package envirominePort.trackers.properties;
 
 import java.io.File;
 import java.util.Iterator;
@@ -17,7 +17,7 @@ import org.apache.logging.log4j.Level;
 
 import envirominePort.core.EMP_ConfigHandler;
 import envirominePort.core.EMP_Settings;
-import envirominePort.core.EnviroMindPort;
+import envirominePort.core.EnviroMinePort;
 import envirominePort.trackers.properties.helpers.PropertyBase;
 import envirominePort.trackers.properties.helpers.SerialisableProperty;
 import envirominePort.utils.EnviroUtils;
@@ -155,4 +155,3 @@ public class ArmorProperties implements SerialisableProperty, PropertyBase {
         config.get(category, APName[8], air).getDouble(air);
     }
 }
-*/

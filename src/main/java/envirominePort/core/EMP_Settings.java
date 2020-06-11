@@ -1,6 +1,7 @@
 package envirominePort.core;
 
 import envirominePort.trackers.properties.*;
+
 import java.io.File;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -86,7 +87,7 @@ public class EMP_Settings {
     public static boolean gasGen = true;
     public static boolean oldMineGen = true;
 
-    /*
+
     //Properties
     //@ShouldOverride("enviromine.network.packet.encoders.ArmorPropsEncoder")
     @ShouldOverride({String.class, ArmorProperties.class})
@@ -108,7 +109,7 @@ public class EMP_Settings {
     @ShouldOverride({String.class, RotProperties.class})
     public static HashMap<String,RotProperties> rotProperties = new HashMap<String,RotProperties>();
 
-     */
+
 
 
     public static int updateCap = 128;
